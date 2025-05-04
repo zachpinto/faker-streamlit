@@ -26,7 +26,7 @@ Try a GUI version of Faker using the Streamlit web app: [Launch App](https://fak
 ## Installation
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/faker-streamlit.git
+git clone https://github.com/zachpinto/faker-streamlit.git
 cd faker-streamlit
 pip install -r requirements.txt
 streamlit run app.py
